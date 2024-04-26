@@ -1,16 +1,16 @@
-# loyalty
+# Loyalty App
 
-A new Flutter project.
+This Flutter application allows users to manage their loyalty points and redeem them for rewards.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Display user's loyalty points.
+- Redeem points for rewards by entering OTP.
+- View reward details including worth, price, and expiry date.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Launch the app on your device or emulator.
+    View your current loyalty points on the home screen.
+    Tap on "Redeem Points" to navigate to the redeem page.
+    Select a reward and enter the OTP to redeem points.
